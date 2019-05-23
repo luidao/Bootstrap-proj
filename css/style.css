@@ -1,0 +1,33 @@
+* {
+
+}
+
+header .navbar {
+background-color: rgb(125, 202, 49);
+box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.1)
+}
+.navbar ul li a {
+    color: rgb(63, 66, 63);
+    text-transform: uppercase;
+}
+
+.navbar .navbar-brand {
+    color: rgb(29, 29, 29);
+    font-weight: bold;
+    font-size: 24px;
+    /* font-size: larger; */
+}
+
+.navbar-toggle .icon-bar {
+    background-color: darkcyan;
+}
+
+form button.btn.btn-primary {
+    background-color: rgb(86, 153, 19);
+    border-color: rgb(86, 153, 19)
+}
+
+.btn.btn-primary {
+    background-color: rgb(86, 153, 19);
+    border-color: rgb(87, 154, 20)
+}
